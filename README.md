@@ -145,8 +145,7 @@ We welcome contributions! Please feel free to submit pull requests, report issue
 
 ## Contract Address:
 Transaction ID: 0xe14Fd4135CE8b823B45eB6c975d43e36E0ccD1c8
-<img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/7fa1fc93-7b05-47d9-bb33-41dfaa20a0fb" />
-
+<img width="1362" height="629" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/f0bdd903-ed9d-4435-8518-bac084fd2092" />
 
 ## License
 
